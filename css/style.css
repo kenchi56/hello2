@@ -1,0 +1,7 @@
+h2 {
+    color:red;
+}
+.test.png{
+    width: 300px; height: auto;
+}
+.test.png :hover{ opacity:0.7;}
